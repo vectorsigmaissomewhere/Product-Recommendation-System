@@ -577,6 +577,7 @@ How it works
 
 4. React Frontend: The frontend allows users to interact with the recommendation system by inputting product details, and it fetches the recommendations from the Django API.
 ```
+
 ## 🚀 Contributing
 ```text
 Feel free to fork the repository, make changes, and submit pull requests. Any contributions are welcome!
