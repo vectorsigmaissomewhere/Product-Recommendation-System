@@ -2,6 +2,13 @@
 ```text
 A product recommendation system built using TF-IDF Vectorizer and Cosine Similarity, designed to provide personalized product recommendations based on the user's input. The data is extracted from [Flipkart Products Dataset](https://www.kaggle.com/datasets/PromptCloudHQ/flipkart-products), and the system is built using Django REST Framework (for the backend) and React (for the frontend).
 ```
+
+### Sample Recommendation Interface
+![Capture 81](https://github.com/vectorsigmaissomewhere/Product-Recommendation-System/blob/main/assets/capture81.PNG)
+
+### Another Example
+![Capture 82](https://github.com/vectorsigmaissomewhere/Product-Recommendation-System/blob/main/assets/capture82.PNG)
+
 ## Features
 ```text
 - **Personalized Recommendations**: Recommends products based on similarity to a given product.
