@@ -48,9 +48,9 @@ source venv/bin/activate
 ```
 3. Install this 
 ```bash
-pip install django
-pip install djangorestframework 
-pip install corsheaders
+pip install Django
+pip install djangorestframework
+pip install django-cors-headers
 ```
 4. Apply database migrations:
 ```bash
